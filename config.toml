@@ -90,5 +90,5 @@ pygmentscodefencesguesssyntax = true
   url  = "posts/"
 [[menu.main]]
   name = "Contact"
-  weight = 5
+  weight = 6
   url  = "contact/"
