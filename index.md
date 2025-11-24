@@ -21,6 +21,13 @@ seoSecondaryKeywords:
   - python build script
   - theme customization
 seoOptimized: true
+topicFamily: static
+topicFamilyConfidence: 1
+topicFamilyNotes: >-
+  The post focuses on a Hugo-based personal blog project with detailed coverage of static site
+  generator configuration, theme customization, taxonomy, and build automation using Python. This
+  aligns perfectly with the 'static' family, which covers static sites, blogs, Hugo, and related
+  automation tooling.
 ---
 
 # Technical Overview of hugo-blog
@@ -63,3 +70,4 @@ Maintaining a personal website with frequent content updates can be cumbersome w
 This project exemplifies a pragmatic approach to personal website management using Hugo. It balances ease of use with customization, leveraging existing themes and tooling. The Python build automation complements Hugo's native commands, enabling a repeatable and auditable build process. The repository structure and configuration files provide a solid foundation for content expansion and future enhancements.
 
 Returning to this project, one should focus on the interplay between Hugo configuration, theme customization, and build automation to maintain and extend the site effectively.
+
