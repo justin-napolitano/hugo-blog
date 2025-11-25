@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/hugo-blog
 generatedAt: '2025-11-24T21:35:04.277Z'
 source: github-auto
 summary: >-
-  Learn how to set up a personal blog using the Hugo static site generator with
-  a focus on customization and automation.
+  Create a customizable personal blog using Hugo with features like theme
+  support, build automation, and clean content management.
 tags:
   - hugo
   - static site generator
@@ -16,13 +16,14 @@ tags:
   - markdown
   - web development
   - blogging
+  - themes
 seoPrimaryKeyword: hugo static site blog
 seoSecondaryKeywords:
-  - hugo installation guide
-  - blog automation
-  - python build script
+  - hugo blog setup
+  - static site deployment
   - hugo themes
-  - content management
+  - python build automation
+  - content management with hugo
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
