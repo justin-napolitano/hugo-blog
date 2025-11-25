@@ -1,20 +1,29 @@
 ---
 slug: github-hugo-blog
 id: github-hugo-blog
-title: hugo-blog
+title: Building a Personal Blog with Hugo Static Site Generator
 repo: justin-napolitano/hugo-blog
 githubUrl: https://github.com/justin-napolitano/hugo-blog
 generatedAt: '2025-11-24T21:35:04.277Z'
 source: github-auto
 summary: >-
-  A personal website and blog built using the Hugo static site generator with a
-  focus on clean design and content management. This repository leverages the
-  Hugo Coder and Hugo Shortcodes themes to provide a customizable and efficient
-  blogging platform.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Learn how to set up a personal blog using the Hugo static site generator with
+  a focus on customization and automation.
+tags:
+  - hugo
+  - static site generator
+  - python
+  - markdown
+  - web development
+  - blogging
+seoPrimaryKeyword: hugo static site blog
+seoSecondaryKeywords:
+  - hugo installation guide
+  - blog automation
+  - python build script
+  - hugo themes
+  - content management
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
