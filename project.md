@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/hugo-blog
 generatedAt: '2025-11-24T21:35:04.277Z'
 source: github-auto
 summary: >-
-  Create a customizable personal blog using Hugo with features like theme
-  support, build automation, and clean content management.
+  Create a customizable personal blog using Hugo with features like theme support, build automation,
+  and clean content management.
 tags:
   - hugo
   - static site generator
@@ -25,8 +25,8 @@ seoSecondaryKeywords:
   - python build automation
   - content management with hugo
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: static
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -125,3 +125,4 @@ For more information on configuring Hugo and themes, refer to the official Hugo 
 ---
 
 *Note: Some assumptions were made regarding missing explicit project description and deployment instructions based on standard Hugo project practices.*
+
