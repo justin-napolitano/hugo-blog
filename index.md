@@ -1,13 +1,13 @@
 ---
 slug: github-hugo-blog
-title: Technical Overview of a Hugo-based Personal Blog with Build Automation
+title: Building a Personal Blog with Hugo Static Site Generator
 repo: justin-napolitano/hugo-blog
 githubUrl: https://github.com/justin-napolitano/hugo-blog
 generatedAt: '2025-11-23T09:05:18.018696Z'
 source: github-auto
 summary: >-
-  Detailed overview of a Hugo static site project featuring theme customization, Python build
-  automation, and taxonomy configuration.
+  Explore the architecture and implementation of a personal blog using Hugo,
+  focusing on themes, configuration, and build automation.
 tags:
   - hugo
   - static-site-generator
@@ -15,19 +15,28 @@ tags:
   - theme-customization
   - personal-blog
   - website-automation
-seoPrimaryKeyword: hugo blog
-seoSecondaryKeywords:
   - static site generator
-  - python build script
-  - theme customization
+  - python
+  - web development
+  - themes
+  - automation
+seoPrimaryKeyword: hugo static site blog
+seoSecondaryKeywords:
+  - personal website with hugo
+  - hugo themes
+  - build automation with python
+  - static site architecture
+  - content management with hugo
 seoOptimized: true
 topicFamily: static
 topicFamilyConfidence: 1
 topicFamilyNotes: >-
-  The post focuses on a Hugo-based personal blog project with detailed coverage of static site
-  generator configuration, theme customization, taxonomy, and build automation using Python. This
-  aligns perfectly with the 'static' family, which covers static sites, blogs, Hugo, and related
-  automation tooling.
+  The post focuses on a Hugo-based personal blog project with detailed coverage
+  of static site generator configuration, theme customization, taxonomy, and
+  build automation using Python. This aligns perfectly with the 'static' family,
+  which covers static sites, blogs, Hugo, and related automation tooling.
+kind: project
+id: github-hugo-blog
 ---
 
 # Technical Overview of hugo-blog
